@@ -12,7 +12,7 @@
 
 **MafD** is a modern, fast, and privacy-focused Android application designed to download videos and audio from virtually any public platform without requiring account logins.
 
-[Features](#-features) • [Installation](#-installation) • [How to Use](#-how-to-use) • [Building from Source](#-building-from-source)
+[Download Latest APK](https://github.com/sushantpr07/MafD/releases/download/v1.0.0/MafD.apk) • [Features](#-features) • [Installation](#-installation) • [How to Use](#-how-to-use) • [Building from Source](#-building-from-source)
 
 </div>
 
